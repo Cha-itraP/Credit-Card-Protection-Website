@@ -9,7 +9,7 @@ The website is static but includes basic interactivity using JavaScript and a sm
 
 ## 👨‍💻 Team Members
 - Member 1: [Chaitra P](https://github.com/Cha-itraP)
-- Member 2: [Manasa]
+- Member 2: [Manasa](https://github.com/Manasa26161)
 - Member 3: [Vibha Datta]
 - Member 4: [Jhanavi]
 
